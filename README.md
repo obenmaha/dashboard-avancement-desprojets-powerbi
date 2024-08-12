@@ -7,7 +7,8 @@ Ce projet consiste à créer un tableau de bord dynamique pour visualiser l'avan
 
 ## Contenu du Dépôt
 - **Tableau de Bord (.pbix)** : Fichier Power BI contenant les visualisations et analyses.
-- **Modèle des Données** : Explication des relations entre les tables et modifications apportées.
+- **Exemple de Données** : Un exemple de données pour tester le tableau de bord ou pour travailler dessus ci besoin (PS : faut mettre à le tableau de bord).
+- 
 
 ## Instructions pour la Mise à Jour des Données
 1. **Ouvrir Power BI Desktop**.
